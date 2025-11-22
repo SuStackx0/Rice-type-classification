@@ -1,4 +1,4 @@
-```# 🌾 Rice Type Classification using PyTorch
+## 🌾 Rice Type Classification using PyTorch
 
 A complete PyTorch-based machine learning pipeline to classify rice grains into two categories.  
 This project includes data loading, model building, training, validation, testing, metric evaluation, early stopping, and inference.
@@ -18,4 +18,3 @@ This project includes data loading, model building, training, validation, testin
 - Best Model Saving (`best_model.pth`)
 - Inference script to predict a single sample
 - Clean, modular code easy for beginners
-```
